@@ -4,8 +4,8 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Equine and Large<br>Animal Cremation"
-  content: "At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality service with the utmost compassion."
+  title: "Tennsessee Horse Cremation"
+  content: ""
   button:
     enable: false
     label: "Discover Our Project"
@@ -16,7 +16,10 @@ about:
   enable: true
   title: "About Us"
   description: ""
-  content: "Our unique cradle lift system is the best way to ensure your horse is treated with dignity and care throughout the whole process. We are able to navigate our cradle lift system to your horse in a variety of settings, including paddocks, barns, and uneven terrain. Your horse will never be dragged or moved with ropes or straps, but will be gently lifted and transported in our cradle. We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss. Let Tennessee Horse Cremation care for you and your horse today."
+  content: "At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality service with the utmost compassion.
+
+
+  Our unique cradle lift system is the best way to ensure your horse is treated with dignity and care throughout the whole process. We are able to navigate our cradle lift system to your horse in a variety of settings, including paddocks, barns, and uneven terrain. Your horse will never be dragged or moved with ropes or straps, but will be gently lifted and transported in our cradle. We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss. Let Tennessee Horse Cremation care for you and your horse today."
   image: "images/horses-about.png"
 
 
