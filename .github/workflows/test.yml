@@ -4,6 +4,9 @@ on:
   pull_request:
     branches:
       - main # PRs to main
+  push:
+    branches:
+      - develop # pushes to develop
 
 jobs:
   test:
