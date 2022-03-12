@@ -546,12 +546,12 @@ span.cloaked-e-mail:before {
   Header Start
 --*/
 header {
-  min-height: 100px;
+  min-height: 130px;
   background: #ffffff;
   padding: 20px 0; }
   @media (max-width: 992px) {
     header {
-      min-height: 90px; } }
+      min-height: 130px; } }
   header .navbar {
     margin-bottom: 0px;
     border: 0px; }

@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "200px"
 # logo text will only show when logo is missing.
 logo_text = "TNHC"
 # navbar fixed to top
@@ -17,11 +17,11 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "+1 (555) 555-5555"
+phone = "+1 (931) 300-2333"
 email = "edward@tnhorsecremation.com"
 location = """
 **Tennessee Horse Cremation LLC**  
-Tennessee  
+Hohenwald, TN  
 United States
 """
 # copyright
