@@ -13,11 +13,13 @@
 
     img {
       width: 100%;
+      border-radius: 25px;
     }
   }
 
   .about-img {
     overflow:hidden;
+    border-radius: 35px;
 
     &:hover img {
       transform: scale3D(1.1,1.1,1);
