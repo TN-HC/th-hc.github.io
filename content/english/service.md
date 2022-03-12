@@ -1,28 +1,35 @@
 ---
-title: "Service"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "A Graceful And Loving Memorial For Your Horse"
+description: ""
+bg_image: "images/horses-services.jpg"
 layout: "service"
 draft: false
 
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
-  image : "images/company/company-group-pic.jpg"
+  title : "What our services include:"
+  content : 'We are a state-of-the-art horse crematorium located in Middle Tennessee. We are dedicated to
+treating every horse and owner with dignity and respect.
+
+
+24 hour a day, seven days a week dignified pickup. We use a custom made machine that
+allows us to NEVER have to use straps or chains on the horse. The horse is placed in a cradle
+and the cradle is gently lifted on to the self-propelled machine.
+<ul style="list-style-type: square;">
+<li>All horses are cremated intact and privately</li>
+<li>Personal return of ashes with locally made urn</li>
+<li>We accommodate special requests</li>
+<li>We coordinate and work with the Vet</li>
+<li>Never a charge for night, weekend, or holiday pickup</li>
+<li>Serving Tennessee and surrounding states</li>
+</ul>'
+  image : "images/urn.jpg"
 
 
 ########################## featured service ############################
 featured_service:
-  enable : true
+  enable : false
   service_item:
     # featured service item loop
     - name : "Interface Design"
@@ -45,7 +52,7 @@ featured_service:
 
 ############################# Service ###############################
 service:
-  enable : true
+  enable : false
   title : "Our Services"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
@@ -92,6 +99,6 @@ service:
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---

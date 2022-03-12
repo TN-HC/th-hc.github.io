@@ -14,7 +14,7 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
+  title: "Saying goodbye is hard enough"
   description: ""
   content: "At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality service with the utmost compassion.
 
