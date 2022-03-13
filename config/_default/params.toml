@@ -18,6 +18,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 address_descriptors = true
 # contact info
 phone = "+1 (931) 300-2333"
+phone2 = "Alternate: +1 (615) 418-0626"
 email = "edward@tnhorsecremation.com"
 location = """
 **Tennessee Horse Cremation LLC**  
