@@ -10,11 +10,13 @@ draft: false
 about:
   enable : true
   image : "images/company/ed-about.png"
-  title : "Ed Yescott"
-  content : "My compassion for animals is deeply rooted. I worked for 30 years as a police officer in Connecticut, the last 20 of which were spent as a Game Warden. I served daily with the goal of protecting and preserving the wildlife in the state, which fostered a deep well of compassion and empathy for the animals I helped.
+  title : "Edward Yescott"
+  content : 'My compassion for animals is deeply rooted. I worked for 30 years as a police officer in Connecticut, the last 20 of which were spent as a Game Warden. I served daily with the goal of protecting and preserving the wildlife in the state, which fostered a deep well of compassion and empathy for the animals I helped.
 
 
-  In the last five years, I have been training with Connecticut Horse Cremation and learning the true value of a cremation business that caters to its customers with compassion and dignity. After years of gaining experience, I decided to move to Tennessee where I saw a great need for a caring equine cremation specialist. So I began Tennessee Horse Cremation, a family run business that treats our customers as an extension of that family. We look forward to setting the bar for a new standard of end of life service."
+  In the last five years, I have been training with Connecticut Horse Cremation and learning the true value of a cremation business that caters to its customers with compassion and dignity. After years of gaining experience, I decided to move to Tennessee where I saw a great need for a caring equine cremation specialist. So I began Tennessee Horse Cremation, a family run business that treats our customers as an extension of that family. We look forward to setting the bar for a new standard of end of life service.
+
+  <div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
 
   button:
     enable : false

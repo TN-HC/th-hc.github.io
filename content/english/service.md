@@ -23,7 +23,9 @@ and the cradle is gently lifted on to the self-propelled machine.
 <li>We coordinate and work with the Vet</li>
 <li>Never a charge for night, weekend, or holiday pickup</li>
 <li>Serving Tennessee and surrounding states</li>
-</ul>'
+</ul>
+
+<div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
   image : "images/urn.jpg"
 
 
