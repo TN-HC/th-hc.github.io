@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Tennsessee Horse Cremation"
+  title: "Tennessee Horse Cremation"
   content: ""
   button:
     enable: false
