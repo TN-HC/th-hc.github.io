@@ -2,7 +2,7 @@
   background: darken( $light, 1.5);
   min-height: 205px;
   text-align: center;
-  padding-top: 67px;
+  padding-top: 47px;
   p {
     font-size: 13px;
     line-height: 25px;
@@ -34,4 +34,19 @@
       font-weight: 600;
     }
   }
+}
+
+.footer-logo {
+  position: absolute;
+  display: block;
+  width: 230px;
+
+  @include desktop {
+    position: inherit;
+    display: inline-block;
+    img {
+      margin: auto;
+    }
+  }
+
 }

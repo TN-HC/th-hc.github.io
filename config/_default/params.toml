@@ -31,6 +31,8 @@ Copyright © 2022 Tennessee Horse Cremation LLC
 <br>
 Theme by [Themefisher](https://themefisher.com/) | Developed By [Axios Technology LLC](https://axiosnm.github.io)
 """
+# footer logo/image
+footer_image = "images/iaopc-logo.png"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

@@ -9,8 +9,13 @@
             {{ end }}
           </ul>
         </div>
-        <p class="copyright">{{ site.Params.copyright | markdownify }}</p>
       </div>
+      <div class="footer-logo">
+        <a href="https://iaopc.com">
+          <img src="/{{ site.Params.footer_image }}">
+        </a>
+      </div>
+      <p class="copyright">{{ site.Params.copyright | markdownify }}</p>
     </div>
   </div>
 </footer>
