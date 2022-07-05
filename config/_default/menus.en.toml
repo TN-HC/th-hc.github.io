@@ -19,7 +19,7 @@ weight = 3
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 4
 
 
 # footer menu
