@@ -57,7 +57,7 @@ success_image = "images/paper-plane.svg"
 # Preloader
 [preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "images/logo.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
