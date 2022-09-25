@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/ed-about.png"
+  image : "images/company/ed-about.jpg"
   title : "Edward Yescott"
   content : 'My compassion for animals is deeply rooted. I worked for 30 years as a police officer in Connecticut, the last 20 of which were spent as a Game Warden. I served daily with the goal of protecting and preserving the wildlife in the state, which fostered a deep well of compassion and empathy for the animals I helped.
 
