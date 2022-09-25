@@ -1,3 +1,17 @@
+.ft-note {
+  max-width: 480px;
+  margin: 1em auto;
+  padding: 3px 20px;
+  background-color: lightgrey;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.ft-note p {
+  margin: 5px;
+  font: italic 1.2em "roboto", sans-serif;
+}
+
 .footer {
   background: darken( $light, 1.5);
   min-height: 205px;

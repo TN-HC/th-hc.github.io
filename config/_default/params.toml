@@ -39,6 +39,8 @@ custom_script= ""
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # recaptch v3 site key
 recaptcha_site_key = "6Lc8_d8UAAAAAIhYYPFb456Jr1xbFGdcQ9MTAkW9"
+# footer note: note above the footer
+footer_note = "For payments, we accept all major credit cards (with an additional 4% service fee), checks, and cash."
 
 [contact.form]
 enable = true
