@@ -58,7 +58,7 @@
             {{ with site.Params.phone2 }}<li><i class="fas fa-tty"></i>{{ if $add_address_descriptors }}{{ i18n "phone" | printf "%s: " }}{{ end }}{{ . }}</li>{{ end }}
           </ul>
           <ul class="social-icons">
-            {{ range site.Params.social -}}
+            {{ range site.Params.socials -}}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{- end }}
           </ul>
