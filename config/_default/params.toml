@@ -112,10 +112,14 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################
-[[social]]
+[[socials]]
 title = "facebook"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.facebook.com/Tennessee-Horse-Cremation-103167045667120/"
+
+[social]
+facebook = ""
+facebook_admin = ""
 
 # [[social]]
 # title = "twitter"
