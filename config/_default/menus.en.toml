@@ -16,7 +16,7 @@ name = "Services"
 url = "service/"
 weight = 3
 
-# [[main]]
+## [[main]]
 # name = "Testimonials"
 # url = "testimonials/"
 # weight = 5
