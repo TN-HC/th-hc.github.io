@@ -9,6 +9,6 @@ draft: false
 about:
   enable : true
   title : "What Our Customers Have to Say:"
-  content : {{< dynamictestimonials >}}
+  content : '{{< dynamictestimonials >}}'
 
 ---
