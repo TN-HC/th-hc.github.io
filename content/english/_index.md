@@ -50,6 +50,11 @@ service:
   enable: false
   # service content comes from "service.md" file
 
+############################# Testimonials ############################
+testimonials:
+  enable: false
+  # service content comes from "testimonials.md" file
+
 
 ############################ call to action ###########################
 cta:

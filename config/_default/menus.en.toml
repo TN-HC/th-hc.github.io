@@ -15,6 +15,11 @@ weight = 2
 name = "Services"
 url = "service/"
 weight = 3
+
+[[main]]
+name = "Testimonials"
+url = "testimonials/"
+weight = 5
   
 [[main]]
 name = "Contact"
