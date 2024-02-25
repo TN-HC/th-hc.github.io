@@ -16,7 +16,7 @@ about:
   enable: true
   title: "Saying goodbye is hard enough"
   description: ""
-  content: 'At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality service with the utmost compassion.
+  content: 'At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality horse cremation service with the utmost compassion.
 
 
   Our unique cradle lift system is the best way to ensure your horse is treated with dignity and care throughout the whole process. We are able to navigate our cradle lift system to your horse in a variety of settings, including paddocks, barns, and uneven terrain. Your horse will never be dragged or moved with ropes or straps, but will be gently lifted and transported in our cradle. We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss. Let Tennessee Horse Cremation care for you and your horse today.
