@@ -26,6 +26,7 @@ about:
 
   We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss.
   
+  
   Let Tennessee Horse Cremation care for you and your horse today.
 
   <div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
