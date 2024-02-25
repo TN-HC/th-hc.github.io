@@ -7,7 +7,7 @@ draft: false
 
 ########################### testimonials #############################
 about:
-  enable : true
+  enable : false
   title : "What Our Customers Have to Say:"
   content : '{{< dynamictestimonials >}}'
 
