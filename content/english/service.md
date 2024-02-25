@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "WHAT OUR EQUINE CREMATION SERVICES INCLUDE:"
+  title : "What our equine cremation services include:"
   content : 'We are a state-of-the-art horse crematorium located in Middle Tennessee. We are dedicated to
 treating every horse and owner with dignity and respect.
 
