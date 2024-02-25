@@ -8,12 +8,13 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "What our equine cremation services include:"
+  title : "What Our Equine Cremation Service Includes:"
   content : 'We are a state-of-the-art horse crematorium located in Middle Tennessee. We are dedicated to
 treating every horse and owner with dignity and respect.
 
 
-24 hour a day, seven days a week dignified pickup. We use a custom made trailer that allows us to NEVER have to use straps or chains on your horse during the entire equine cremation process. The horse is placed in a cradle and the cradle is gently lifted on to the self-propelled trailer.
+24 hours a day, seven days a week, dignified pickup. 
+We use a custom made trailer that allows us to NEVER have to use straps or chains on your horse during the entire equine cremation process. The horse is placed in a cradle and the cradle is gently lifted on to the self-propelled trailer.
 <ul style="list-style-type: square;">
 <li>All horses are cremated intact and privately</li>
 <li>Personal return of ashes with locally made urn</li>
