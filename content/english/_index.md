@@ -20,7 +20,7 @@ about:
 
   <div style="text-align: left;"><h3>WHY TENNESSEE HORSE CREMATION IS DIFFERENT</h3></div>
   Our horse cremation service is unique because of the cradle lift system that ensures your horse is treated with dignity and care throughout the whole cremation process. We are able to navigate our cradle lift system to your horse in a variety of settings, including paddocks, barns, and uneven terrain. Your horse will never be dragged or moved with ropes or straps, but will be gently lifted and transported in our cradle. We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss.
-
+  Let Tennessee Horse Cremation care for you and your horse today.
 
   <div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
   image: "images/horses-about.png"
