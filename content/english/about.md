@@ -11,7 +11,10 @@ about:
   enable : true
   image : "images/company/ed-about.jpg"
   title : "Edward Yescott, Founder"
-  content : 'After apprenticing for several years at an equine crematorium in Connecticut, I decided to move my family to Tennessee where I saw a great need for a caring equine cremation specialist. So I built and opened Tennessee Horse Cremation, LLC, a family run business that treats our customers as an extension of that family and each horse with compassion and dignity. We are setting the bar for a new standard of end of life service.
+  content : 'My compassion for animals is deeply rooted. I worked for 30 years as a police officer in Connecticut, the last 20 of which were spent as a Game Warden. I served daily with the goal of protecting and preserving the wildlife in the state, which fostered a deep well of compassion and empathy for the animals I helped.
+
+
+After apprenticing for several years at an equine crematorium in Connecticut, I decided to move my family to Tennessee where I saw a great need for a caring equine cremation specialist. So I built and opened Tennessee Horse Cremation, LLC, a family run business that treats our customers as an extension of that family and each horse with compassion and dignity. We are setting the bar for a new standard of end of life service.
 
   <div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
 
