@@ -2,13 +2,13 @@
 title: "Customer Testimonials"
 description: ""
 bg_image: "images/horses-services.jpg"
-layout: "testimonials"
+layout: "reviews"
 draft: false
 
 ########################### testimonials #############################
 about:
-  enable : false
+  enable : true
   title : "What Our Customers Have to Say:"
-  content : '{{< dynamictestimonials >}}'
-
+  content : '{{< reviews >}}'
+  
 ---
