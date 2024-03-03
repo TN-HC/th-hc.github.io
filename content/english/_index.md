@@ -55,7 +55,7 @@ service:
 ############################# Testimonials ############################
 testimonials:
   enable: false
-  # service content comes from "testimonials.md" file
+  # testimonials content comes from "testimonials.md" file
 
 
 ############################ call to action ###########################
