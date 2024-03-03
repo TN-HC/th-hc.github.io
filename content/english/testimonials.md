@@ -1,7 +1,7 @@
 ---
 title: "Customer Testimonials"
 description: ""
-bg_image: "images/horses-services.jpg"
+bg_image: "images/horse-testimonials.jpg"
 layout: "reviews"
 draft: false
 

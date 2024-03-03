@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Tennessee Horse Cremation"
+  title: "Tennessee Horse Cremation, LLC"
   content: ""
   button:
     enable: false
@@ -17,12 +17,12 @@ about:
   title: "Saying goodbye is hard enough"
   description: ""
   content: '<p style="line-height:20px;">At Tennessee Horse Cremation, we understand that horses are family. We are dedicated to providing quality horse cremation service with the utmost compassion.</p>
-  <div><h3>Why Tennessee Horse Cremation is Different</h3></div>
+  <div><h3>Why Tennessee Horse Cremation, LLC is Different</h3></div>
   <p style="line-height:20px;">Our horse cremation service is unique because of the cradle lift system that ensures your horse is treated with dignity and care throughout the whole cremation process. We are able to navigate our cradle lift system to your horse in a variety of settings, including paddocks, barns, and uneven terrain. Your horse will never be dragged or moved with ropes or straps, but will be gently lifted and transported in our cradle.</p>
   <br />
  <p style="line-height:20px;"> We are committed to our work because we believe that horses are gifts from God and should be treated as such, and that people, being made in His image, need special care and compassion to help them through their time of loss.</p>
   <br />
-  <p style="line-height:20px;">Let Tennessee Horse Cremation care for you and your horse today.</p>
+  <p style="line-height:20px;">Let Tennessee Horse Cremation, LLC care for you and your horse today.</p>
   <br />
   <div style="text-align: center;"><h3>Call us at (931) 300-2333</h3></div>'
   image: "images/horses-about.png"
