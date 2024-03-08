@@ -33,6 +33,9 @@
       li {
         display: inline-block;
         padding: 0px 20px;
+	@include mobile {
+	    padding: 0px 10px;
+	}
         a {
           display: inline-block;
           color: lighten( $black, 28.6 );
