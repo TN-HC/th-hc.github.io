@@ -42,3 +42,8 @@ weight = 4
 name = "Contact"
 url = "contact/"
 weight = 7
+
+[[footer]]
+name = "Testimonials"
+url = "testimonials/"
+weight = 9
